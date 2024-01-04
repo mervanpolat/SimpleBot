@@ -2,16 +2,16 @@
 
 ## Overview
 
-The Simple Bot is a Java console application designed to interact with users by performing a series of tasks including greeting, name recognition, age guessing, counting, and testing the user's basic programming knowledge.
+The Simple Bot "Joudi" is a Java console application designed to interact with users by performing a series of tasks including greeting, name recognition, age guessing, counting, and testing the user's basic programming knowledge.
 
 ## Features
 
-- **Greeting**: The bot introduces itself and requests the user's name.
-- **Name Reminder**: The bot acknowledges the user's name in a friendly manner.
-- **Age Guess**: The bot estimates the user's age using remainders provided by the user.
-- **Counting**: The bot demonstrates its ability to count up to a number specified by the user.
-- **Knowledge Test**: The bot quizzes the user with a simple programming question.
-- **Farewell**: The bot ends the interaction with a congratulatory message.
+- **Greeting**: Joudi introduces itself and requests the user's name.
+- **Name Reminder**: Joudi acknowledges the user's name in a friendly manner.
+- **Age Guess**: Joudi estimates the user's age using remainders provided by the user.
+- **Counting**: Joudi demonstrates its ability to count up to a number specified by the user.
+- **Knowledge Test**: Joudi quizzes the user with a simple programming question.
+- **Farewell**: Joudi ends the interaction with a congratulatory message.
 
 ## Requirements
 
